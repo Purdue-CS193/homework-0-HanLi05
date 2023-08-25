@@ -1,3 +1,9 @@
+# Han's First CS193 Homework
+Some of my favorite things about CS193 include:
+- Beginner-friendly
+- Teaches key skills surrounding important software used in other CS environments
+- Run by supportive and understanding student teachers
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
